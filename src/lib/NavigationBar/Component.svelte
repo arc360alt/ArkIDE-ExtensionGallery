@@ -89,7 +89,7 @@
 
 <style>
     :root {
-        --penguinmod-color: #00c3ff;
+        --penguinmod-color: #0800ff;
     }
     :global(body.dark-mode) {
         --penguinmod-color: #009ccc;
