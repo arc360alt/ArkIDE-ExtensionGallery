@@ -26,8 +26,8 @@
 
 <div style="height: 24px"></div>
 <div class="footer">
-    PenguinMod is not affiliated with TurboWarp, Scratch, the Scratch Team, or
-    the Scratch Foundation.
+    ArkIDE is not affiliated with TurboWarp, Scratch, the Scratch Team, or
+    the Scratch Foundation, OR any other entity. ArkIDE is a third-party project.
 </div>
 <div class="links">
     <a

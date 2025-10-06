@@ -37,15 +37,15 @@
 <div class="top">
     <div class="header">
         <Logo />
-        <h1>PenguinMod Extra Extensions</h1>
+        <h1>ArkIDE Extra Extensions</h1>
     </div>
 </div>
 <div class="main">
-    <p>See some cool extensions made by other people here.</p>
+    <p>See some cool extensions made by other people here. Original website made by penguinmod, Edited for use in ArkIDE.</p>
     <p>
         To use some of these extensions in your projects, click the "Copy URL"
         button on an extension and
-        <a href="/load" target="_blank">load it into PenguinMod,</a>
+        <a href="/load" target="_blank">load it into ArkIDE,</a>
         or click the "View" button to create a new project with the extension.
     </p>
 
@@ -77,7 +77,7 @@
 
     <p style="text-align: center;">
         Note: Some extensions may be added to the Extension Gallery in
-        PenguinMod Studio.<br />If you cannot find an extension that was
+        ArkIDE Studio.<br />If you cannot find an extension that was
         previously listed here, check there.
     </p>
 
