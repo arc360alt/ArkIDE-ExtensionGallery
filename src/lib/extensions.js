@@ -5,6 +5,15 @@
         pleas dont remove them :)
 */
 export default [
+        {
+        name: "ArkIDE additions",
+        description: "A simple extension that adds some cool new blocks for ArkIDE.",
+        code: "Ark/arkide-additons.js",
+        banner: "Ark/banner.svg",
+        creator: "Arc360",
+        creatorAlias: "Ark",
+        notes: ""
+    },
     {
         name: "Pen+",
         description: "Extended pen section! Adds blocks for drawing triangles using textures and tints, drawing images and editing their pixels, etc.",
